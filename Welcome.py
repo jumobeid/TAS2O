@@ -18,3 +18,4 @@ favorite_subject = input("What is your favorite subject? ")
 print("Cool! " + favorite_subject + " sounds interesting.")
 
 print("Thanks for trying my first Python program!")
+print("test main")
